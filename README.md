@@ -1,2 +1,2 @@
 # Drop
-DLNA Media Server / Media Player
+DLNA Media Server & Media Player for TV
